@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Advance java**
 
-- 💬 Ask me about **core java, javaScript , c++,c**
+- 💬 Ask me about **core java, Springboot , Spring MVC , Spring Core , javaScript , c++,c**
 
 - 📫 How to reach me **kushwahvinayak1@gmail.com**
 
